@@ -2,4 +2,4 @@
 Module 2 Challenge - Lorelei Legg
 
 
-Tutor was used to help structure the script as well as the instuctor videos for content included. The "select Case" for formating the colors was shown to me by the tutor.
+Tutor was used to help structure the script as well as the course instuctor videos for content included included in my VBA script. The "select Case" for formating the colors was shown to me by the tutor.
